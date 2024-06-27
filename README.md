@@ -9,7 +9,7 @@ DURATION : JUNE TO JULY 2024
 ID : CT04ML2337
 
 
-# Sentiment-Analysis
+# analysis of movie review 
 Movie Review Sentiment Analysis
 Tools & Technologies: Python, NLTK, scikit-learn, pandas
 
